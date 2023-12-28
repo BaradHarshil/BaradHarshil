@@ -21,11 +21,9 @@ Here are some ideas to get you started:
 <div id="badges"align="center">
    <a href="https://www.linkedin.com/in/shubham-shukla-9727231ba/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   </a>
 </div>
 
 <div id="views"align="center">
-<img  src="https://komarev.com/ghpvc/?username=sbmshukla&style=flat-square&color=blue" alt="sbmshukla" />
+<img  src="https://komarev.com/ghpvc/?username=H14barad&style=flat-square&color=blue" alt="H14barad" />
 </div>
