@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- -->
+<!--
 <div id="greetings"align="center">
  <img height="180em" src="sbmshukla_linkedin_frame.png" />
 </div>
@@ -97,5 +98,4 @@ Here are some ideas to get you started:
 <h1>  News App </h1>
  <img height="180em" src="Hero.png" />
 </div>
-
 
