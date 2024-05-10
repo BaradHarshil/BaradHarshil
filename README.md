@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 </div>
 -->
 
-<!--Language GIF Logo...-->
+<!--Language GIF Logo...
 <div id="header" align="center">
 <img src="https://raw.githubusercontent.com/codelessly/flutterloadinggifs/master/packages/cupertino_activity_indicator_square_medium.gif" width="200" height="100"/>
-</div>
+</div>-->
 
 
 <!--Social Plateforms...
@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 </div>-->
 
 
+![Develop environments on your infrastructure](flutter_img.jpeg)
 
 <div id="greetings"align="center">
 <h1>
