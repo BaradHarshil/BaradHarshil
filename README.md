@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </div>-->
 
 
-![Develop environments on your infrastructure](flutter_img.jpeg)
+![Develop environments on your infrastructure](flutter_banner.jpg)
 
 <div id="greetings"align="center">
 <h1>
