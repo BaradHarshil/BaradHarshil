@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Ask me about Flutter.
-- 📩 Reach me at: baradharshil1417@gmail.com
+- 📩 Reach me at: baradharshil2015@gmail.com
 
 <!--
 <div id="greetings"align="center">
